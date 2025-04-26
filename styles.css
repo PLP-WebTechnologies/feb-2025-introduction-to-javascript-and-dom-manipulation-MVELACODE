@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+#myDiv {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid black;
+}
